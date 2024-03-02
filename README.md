@@ -25,5 +25,8 @@ SkillSpotlight project analyzes both current top skills and predicts future skil
 - **Dashboard:**
   - Creation
   - Dashboards
+
+     <img width="676" alt="image" src="https://github.com/akanksha1307/SkillSpotlight-Analyzing-Top-Future-Skill-Trends/assets/89465549/9389415b-7e2e-490a-a774-82bb89a28577">
+
 - **Presentation of Findings:**
   - Final Presentation
